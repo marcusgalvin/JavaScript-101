@@ -11,3 +11,4 @@ Coding Challenges Include:
 - Debugging
 - Regular Expressions
 - Object Oriented Programing
+- Functional Programming
