@@ -6,7 +6,8 @@ Coding Challenges Include:
 
 - Data Structures
 - ES6
-- Algorithms
+- Basic Algorithms
+- Intermediate Algorithms
 - Debugging
 - Regular Expressions
 - Object Oriented Programing
