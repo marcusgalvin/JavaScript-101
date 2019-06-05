@@ -14,3 +14,4 @@ Coding Challenges Include:
 - Functional Programming
 - ReactJS
 - ExpressJS
+- Redux
