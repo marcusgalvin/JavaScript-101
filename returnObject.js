@@ -18,10 +18,8 @@ whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: 
 
 //Solution
 
-unction whatIsInAName(collection, source) {
-  // "What's in a name? that which we call a rose
-  // By any other name would smell as sweet.”
-  // -- by William Shakespeare, Romeo and Juliet
+function whatIsInAName(collection, source) {
+
   var srcKeys = Object.keys(source);
 
   // filter the collection
