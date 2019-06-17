@@ -6,9 +6,11 @@
 
 //Given Code:
 
+
+
+
 function spinalCase(str) {
-  // "It's such a fine line between stupid, and clever."
-  // --David St. Hubbins
+  
   return str;
 }
 
@@ -17,15 +19,20 @@ spinalCase('This Is Spinal Tap');
 //Solution:
 
 function spinalCase(str) {
-  // Create a variable for the white space and underscores.
+    
+  // use regex to create white spaces with underscores
+  
   var regex = /\s+|_+/g;
 
-  // Replace low-upper case to low-space-uppercase
+//.replace puts a space in front of all uppercase characters
+
   str = str.replace(/([a-z])([A-Z])/g, '$1 $2');
 
   // Replace space and underscore with -
+  
   return str.replace(regex, '-').toLowerCase();
 }
 
-// test here
+//call function
+
 spinalCase('This Is Spinal Tap');
