@@ -15,3 +15,4 @@ Coding Challenges Include:
 - ReactJS
 - ExpressJS
 - Redux
+- & More
