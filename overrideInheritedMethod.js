@@ -3,6 +3,7 @@
 // Override the fly() method for Penguin so that it returns "Alas, this is a flightless bird."
 
 //Given Code:
+//Fixed funct
 
 function Bird() { }
 
