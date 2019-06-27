@@ -6,7 +6,7 @@
 
 // The character and its pair are paired up in an array, and all the arrays are grouped into one encapsulating array.
 
-//Given Codes:
+//Given Code:
 
 function pairElement(str) {
   return str;
