@@ -18,4 +18,5 @@ Coding Challenges Include:
 - API's
 - Backend Express Routes
 - React Native
+- React Hooks
 - & More
